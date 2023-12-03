@@ -1,0 +1,26 @@
+{
+    "node1":{
+        "host":"192.168.43.3",
+        "user":"root",
+        "password":"sigalas",
+        "ova_path":"/Users/ndansisigala/Downloads/yVM.ova",
+        "instance_nbr":2,
+        "disable_ssl_verification":true,
+        "port":443,
+        "datastore_name":"",
+        "datacenter_name":"",
+        "resource_pool":""
+    },
+    "node2":{
+        "host":"192.168.43.3",
+        "user":"root",
+        "password":"datas",
+        "ova_path":"/Users/ndansisigala/Downloads/yVM.ova",
+        "instance_nbr":2,
+        "disable_ssl_verification":true,
+        "port":443,
+        "datastore_name":"",
+        "datacenter_name":"",
+        "resource_pool":""
+    }
+}

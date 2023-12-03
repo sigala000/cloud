@@ -1,0 +1,16 @@
+{
+    "host":"192.168.43.3",
+    "user":"root",
+    "password":"sigalas",
+    "name":"shabaaa",
+    "memoryMB":1024, 
+    "numCPUs":1,
+    "guestId":"otherGuest",
+    "version":"vmx-07",
+    "iso_path":"/Users/ndansisigala/Downloads/Core-5.4.iso",
+    "disable_ssl_verification":true,
+    "port":443,
+    "datastore_name":"",
+    "datacenter_name":"",
+    "resource_pool":""
+}
